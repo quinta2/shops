@@ -1,0 +1,52 @@
+.dlbg{
+    width: 100%;
+    height: 50rem;
+    background: #fff;
+    position: relative;
+}
+.dlbg .dl{
+    width: 100%;
+    height: 30rem;
+    background-color: #ffffff;
+    position: absolute;
+    top:10rem;
+}
+.dl p{
+    margin: 1.5rem 6% 1.5rem 6%;
+    width: 88%;
+    text-align: center;
+    padding-bottom: 1.5rem;
+    font-size: 1.8rem;
+    border-bottom: 1px solid #000000;
+}
+.dl .srk{
+    text-align: center;
+}
+.dl .srk input{
+    margin: 1.5rem 6% 1.5rem 6%;
+    width: 88%;
+    height: 4rem;
+    font-size: 1.8rem;
+    outline: none;
+    border: 1px solid #dcdcdc;
+}
+.dl .srk button{
+    margin: 1.5rem 6% 1.5rem 6%;
+    width: 88%;
+    height: 4rem;
+    font-size: 1.8rem;
+    background-color: green;
+    outline: none;
+    color: #ffffff;
+    border: 1px solid green;
+    border-radius: 4px;
+}
+.beizhu{
+    width: 100%;
+    margin-top: 2rem;
+}
+.beizhu li{
+    float: right;
+    padding-right: 6%;
+    white-space: nowrap;
+}
